@@ -10,5 +10,7 @@ public class demo1 {
 		int x = 100;
 		int y = 10;
 		System.out.println(x - y);
+		
+		System.out.println("hello");
 	}
 }
