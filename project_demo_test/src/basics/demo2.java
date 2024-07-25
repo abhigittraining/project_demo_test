@@ -14,6 +14,7 @@ public class demo2 {
 		int b = 50;
 		int sum = a - b;
 		System.out.println(sum);
+		System.out.println("hello");
 	}
 	
 	public static void main(String[] args) {
